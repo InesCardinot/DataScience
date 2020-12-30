@@ -1,4 +1,3 @@
-!Boas vindas  (https://github.com/InesCardinot/DataScience/blob/main/banner.png)
 
 <p align = ''center''> 
     <img src="banner.png" >
